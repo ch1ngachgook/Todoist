@@ -1,4 +1,3 @@
-Description
 This Todoist app allows users to manage their tasks with advanced filtering functionality. Users can add, view, and filter tasks based on various criteria such as completion status and importance.
 
 Features
